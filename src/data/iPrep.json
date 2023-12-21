@@ -1,0 +1,28 @@
+{
+  "title": "iPrep", 
+  "description": "iPrep was an iPad app that was designed to train reps in the use of Veeva iRep, utilizing a series of videos.  In this project my main roll was acting creative lead after coming up with the winning concept. It has won several industry awards.",
+  "design": true,
+  "webdev": false,
+  "gamedev": true,
+  "motionArtist":false,
+  "logo": "/iPrep/logo.png",
+  "wipeColor":"#167a91",
+  "backgroundPos":"-360px",
+  "headerColor":"#082038",
+  "background": "/iPrep/iPrep_StarBurst.jpg",
+  "backgroundAnimation": "rotate",
+  "forground": "/iPrep/focus_foreground.png",
+  "forgroundAnimation": "",
+  "textColor":"#ffffff",
+  "boxColor":"transparent",
+  "images": [
+    {
+      "src": "/iPrep/iPrep_Screenshot_01.jpg",
+      "description": "Landing Page"
+    }, 
+    {
+      "src": "/iPrep/iPrep_Screenshot_02.jpg",
+      "description": "Portal"
+    }
+  ]
+}

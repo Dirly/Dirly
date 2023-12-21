@@ -1,0 +1,43 @@
+{
+  "name": "hitregstudiossite",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build && npm run deploy",
+    "preview": "vite preview",
+    "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs --fix --ignore-path .gitignore",
+    "format": "prettier --write src/",
+    "deploy": "cd dist && copy index.html 404.html && git add -A && git commit -m 'deploying' && git push"
+  },
+  "dependencies": {
+    "@duskmoon/vue3-typed-js": "^0.0.4",
+    "@fortawesome/fontawesome-free": "^6.4.0",
+    "@fortawesome/fontawesome-svg-core": "^6.4.0",
+    "@fortawesome/free-brands-svg-icons": "^6.4.0",
+    "@fortawesome/free-regular-svg-icons": "^6.4.0",
+    "@fortawesome/free-solid-svg-icons": "^6.4.0",
+    "@fortawesome/vue-fontawesome": "^3.0.3",
+    "animate.css": "^4.1.1",
+    "chart.js": "^4.4.1",
+    "pinia": "^2.0.36",
+    "tsparticles": "^3.0.2",
+    "tsparticles-engine": "^2.10.1",
+    "vue": "^3.3.2",
+    "vue-chartjs": "^5.2.0",
+    "vue-lite-youtube-embed": "^1.2.0",
+    "vue-particles": "^1.0.9",
+    "vue-router": "^4.2.0",
+    "vue-silentbox": "^3.0.4",
+    "vue3-particles": "^2.12.0"
+  },
+  "devDependencies": {
+    "@rushstack/eslint-patch": "^1.2.0",
+    "@vitejs/plugin-vue": "^4.2.3",
+    "@vue/eslint-config-prettier": "^7.1.0",
+    "eslint": "^8.39.0",
+    "eslint-plugin-vue": "^9.11.0",
+    "prettier": "^2.8.8",
+    "vite": "^4.3.5"
+  }
+}

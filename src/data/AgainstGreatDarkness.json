@@ -1,0 +1,26 @@
+{
+  "title": "Against Great Darkness", 
+  "description": "Against Great Darkness is a brick breaker, bullet hell, roguelite.  It is currently my active attempt at releasing a indie game on PC, switch and mobile. It features multiple player characters, bosses, items, levels and a consitant art style I am very proud of. I am excited to state that this title will be releaseing on PC via steam 2024. I handled the creation of all assets, including a marketing campaign that was picked up by Steam and featured on their Nextfest",
+  "design": true,
+  "webdev": false,
+  "gamedev": true,
+  "motionArtist":true,
+  "logo": "/AGD/AGD_Logo.png",
+  "headerColor":"#290d1f",
+  "background": "/AGD/Focus_BG.png",
+  "backgroundAnimation": "sizerBG",
+  "forground": "/AGD/Focus_FG.png", 
+  "forgroundAnimation": "sizerFG",
+  "textColor":"#ffffff",
+  "boxColor":"transparent",
+  "images": [
+    {
+      "src": "https://www.youtube.com/embed/pFdEfFHuMYw",
+      "description": "Official Trailer"
+    },
+    {
+      "src": "/AGD/AGD_ScreenGrab_04.png",
+      "description": "Hill Of The Skull Boss"
+    }
+  ]
+}

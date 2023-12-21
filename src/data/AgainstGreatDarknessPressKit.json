@@ -1,0 +1,122 @@
+ {
+      "titleImage": "/AGD/AGD_Header.png",
+      "price": "$6.99",
+      "releaseDate": "2024",
+      "platforms": "Windows",
+      "genre": "Action, Roguelite, Bullet Hell, Brick Breaker",
+      "description": "<p>Against Great Darkness is a brick breaker, bullet hell, roguelite where you embody a pagan trying to escape monotheistic damnation. Battle hordes of demonic entities, acquire powerful relics, and navigate unique events that can aid or hinder your ascent, all while keeping your eyes on your disks. Gather shards to unlock upgrades and enhance your chances of success in this journey for ascension.</p>",
+      "features": "<ul><li>Embark on a treacherous journey through 3 haunting circles of hell.</li><li>Confront distinct demonic bosses and face off against relentless enemies.</li><li>Shape your destiny by making critical choices during unique events, granting you powerful relics.</li><li>Unleash the potential of items that provide exclusive modifiers based on brick breaking mechanics.</li><li>Master the art of synergy by strategically combining a multitude of items to enhance your build.</li><li>Unlock a diverse cast of characters, items, and other surprises with each daring run.</li><li>Amplify your chances of success by upgrading your paragons between runs.</li><li>Experience the thrill of unique and unpredictable escapes from the depths of hell.</li></ul>",
+      "developer": "I'm Derek Kaleida aka Dirly the developer of Against Great Darkness. I've been tinkering with game development for the last 7 years. I've always had a passion for games and found myself making prototype after prototype. I had always dreamed about releasing one. Hitreg Studios is a company I founded to pursue that dream. I wanted to show my kids that no matter who you are or what age you are it is not to late to follow them!",
+      "videos": [
+        {
+          "id": "pFdEfFHuMYw",
+          "title": "Against Great Darkness - Official Trailer"
+        },
+        {
+          "id": "MDuock11z74",
+          "title": "Against Great Darkness - 1 hour beta gameplay"
+        }
+      ],
+      "images": [
+        {
+          "src": "/AGD/AGD_CharacterSelect.png",
+          "description": "Character select screen",
+          "download": "true"
+        },
+        {
+          "src": "/AGD/AGD_ScreenGrab_01.png",
+          "description": "Titanmancy Lance",
+          "download": "true"
+        },
+        {
+          "src": "/AGD/AGD_MetaUpgrades.png",
+          "description": "Meta progression",
+          "download": "true"
+        },
+        {
+          "src": "/AGD/AGD_ScreenGrab_02.png",
+          "description": "Electric Skull Event",
+          "download": "true"
+        },
+        {
+          "src": "/AGD/AGD_ScreenGrab_03.png",
+          "description": "Buff Bricks",
+          "download": "true"
+        },
+        {
+          "src": "/AGD/AGD_ScreenGrab_04.png",
+          "description": "Hill Of The Skull Boss",
+          "download": "true"
+        },
+        {
+          "src": "/AGD/AGD_ScreenGrab_05.png",
+          "description": "Shop",
+          "download": "true"
+        },
+        {
+          "src": "/AGD/AGD_ScreenGrab_06.png",
+          "description": "The Sphere Event",
+          "download": "true"
+        },
+        {
+          "src": "/AGD/AGD_ScreenGrab_07.png",
+          "description": "Ah Puch Boss",
+          "download": "true"
+        },
+        {
+          "src": "/AGD/AGD_ScreenGrab_08.png",
+          "description": "Boss rewards",
+          "download": "true"
+        },
+        {
+          "src": "/AGD/AGD_ScreenGrab_09.png",
+          "description": "Naamah Boss",
+          "download": "true"
+        },
+        {
+          "src": "/AGD/AGD_ScreenGrab_10.png",
+          "description": "Trigger Barrage",
+          "download": "true"
+        },
+        {
+          "src": "/AGD/AGD_ScreenGrab_11.png",
+          "description": "Bricks",
+          "download": "true"
+        }
+      ],
+      "branding": [
+        {
+          "src": "/AGD/AGD_Logo.png",
+          "description": "Logo",
+          "download": "true"
+        },
+        {
+          "src": "/AGD/AGD_Logo_KO.png",
+          "description": "Logo KO",
+          "download": "true"
+        },
+        {
+          "src": "/AGD/AGD_KeyArt.png",
+          "description": "Key Art",
+          "download": "true"
+        },
+        {
+          "src": "/HitRegIcon_KO.png",
+          "description": "Hitreg Icon",
+          "download": "true"
+        },
+        {
+          "src": "/HitRegLogo_KO.png",
+          "description": "Hitreg logo",
+          "download": "true"
+        }
+      ],
+      "articles": [
+        {
+          "src": "https://www.alphabetagamer.com/against-great-darkness-pre-alpha-download/",
+          "description": "Against Great Darkness – Pre-Alpha Download",
+          "author": "Calum Fraser",
+          "link": "Alpha Beta Gamer"
+        }
+      ]
+}

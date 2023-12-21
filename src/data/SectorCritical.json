@@ -1,0 +1,26 @@
+{
+  "title": "Sector Critical", 
+  "description": "Sector cricial was my first attempt at releasing a real game as a solo dev. The game was a multiplayer VR title designed for Google Daydream running smoothly with only 22 setpass calls. There are multiple ships, weapons and ablities. Upsettingly it never passed Google's design documents as they never updated their multiplayer API to support some of their design restrictions.  They never fixed it... and like all of google's products Daydream was killed prematurely and thus the game sits 90% completed.",
+  "design": true,
+  "webdev": false,
+  "gamedev": true,
+  "motionArtist":false,
+  "headerColor":"#082038",
+  "logo": "/SC/logo.png",
+  "background": "/SC/Focus_BG.png",
+  "backgroundAnimation": "sizerBG",
+  "forground": "/SC/Focus_FG.png",
+  "forgroundAnimation": "hover",
+  "textColor":"#ffffff",
+  "boxColor":"transparent",
+  "images": [
+    {
+      "src": "https://www.youtube.com/embed/7JU_Q0dg6HA",
+      "description": "Game Play Video"
+    },
+    {
+      "src": "/SC/blackhole.jpg",
+      "description": "Black Hole"
+    }
+  ]
+}

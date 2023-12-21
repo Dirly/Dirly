@@ -1,0 +1,28 @@
+{
+  "title": "iPrep", 
+  "description": "The amAZing App was created to onboard sales reps with iPads, by bringing them on a journey around the world.  My roll in the project was creative lead, and support programmer.",
+  "design": true,
+  "webdev": false,
+  "gamedev": true,
+  "motionArtist":false,
+  "wipeColor":"#f8931f",
+  "backgroundPos":"-200px",
+  "logo": "/AA/Logo.png",
+  "headerColor":"#440c02",
+  "background": "/AA/Focus_BG.jpg",
+  "backgroundAnimation": "sizerBG",
+  "forground": "/AA/focus_foreground.png",
+  "forgroundAnimation": "",
+  "textColor":"#ffffff",
+  "boxColor":"transparent",
+  "images": [
+    {
+      "src": "/AA/AA_Screenshot_01.jpg",
+      "description": "Task Screen"
+    }, 
+    {
+      "src": "/AA/AA_Screenshot_02.jpg",
+      "description": "Map"
+    }
+  ]
+}
