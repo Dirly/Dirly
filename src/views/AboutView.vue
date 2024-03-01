@@ -253,10 +253,10 @@ h1 span{
 
 #BarChart{
   position:relative;
-  margin-top:-10px;
+  margin-top:20px;
   height:20px;
   width:100%;
-  margin-left:12px;
+  margin-left:22px;
 }
 
 .line{

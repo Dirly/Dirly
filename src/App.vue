@@ -56,7 +56,7 @@
       </RouterView>
   </div>
   <footer>
-    <p><a href="derek.kaleida@gmail.com"><fa :icon="['fas','envelope']" /></a></p>
+    <p><a href="mailto:derek.kaleida@gmail.com"><fa :icon="['fas','envelope']" /></a></p>
   </footer>
 </template>
 

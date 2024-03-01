@@ -108,7 +108,7 @@ h1 span{
 }
 
 #agd{
-  background-image: url("AGD/AGD_KeyArt.png");
+  background-image: url("/AGD/AGD_KeyArt.png");
   background-position: 50% 31%;
   background-color:#f25bbf;
 }
@@ -119,7 +119,7 @@ h1 span{
 
 #sc{
   background-color: #116399;
-  background-image: url("SC/Background.png");
+  background-image: url("/SC/Background.png");
   background-position: bottom;
 }
 
@@ -128,7 +128,7 @@ h1 span{
 }
 
 #iprep{
-  background-image: url("iPrep/Background.png");
+  background-image: url("/iPrep/Background.png");
   background-position: 50% 31%;
 }
 
@@ -137,7 +137,7 @@ h1 span{
 }
 
 #aa{
-  background-image: url("AA/Background.png");
+  background-image: url("/AA/Background.png");
   background-position: 50% 86%;
   background-color:#f8931f;
 }
@@ -148,7 +148,7 @@ h1 span{
 
 #FC{
   background-color: #020609;
-  background-image: url("FC/Background.png");
+  background-image: url("/FC/Background.png");
   background-position: 50% 26%;
 }
 
