@@ -39,7 +39,7 @@
           <div id="webdev"  class="diamond">
             <fa :icon="['fas', 'wifi']" size="2xl" />
           </div>
-          <h3>Web Developer</h3>
+          <h3>Web</h3>
           <p class="pcOnly">JS, HTML, CSS, Node, Git, Vue, React, Angular</p>
         </div>
         <div class="skillTarget animate__animated animate__fadeInDown delay-3">
@@ -53,14 +53,14 @@
           <div id="gamedev" class="diamond">
             <fa :icon="['fas', 'gamepad']" size="2xl" />
           </div>
-          <h3>Game Developer</h3>
+          <h3>Games</h3>
           <p class="pcOnly">C#, Unity, Aseprite, Blockbench, Blender</p>
         </div>
         <div class="skillTarget animate__animated animate__fadeInDown delay-5">
           <div id="motionArtist" class="diamond">
             <fa :icon="['fas', 'film']" size="2xl" />
           </div>
-          <h3>Motion Artist</h3>
+          <h3>Media</h3>
           <p class="pcOnly">After Effects, Premier, iMovie, Audition, Flash</p>
         </div>
       </div>
@@ -269,6 +269,30 @@ Line{
 }
 
 
+/* Add mobile-specific styles */
+@media (max-width: 768px) { /* Adjust this breakpoint as necessary */
+  .innerRow {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start; /* Align items to the start (left) */
+  }
+
+  .skillTarget {
+    display: flex;
+    align-items: center; /* Center-align items vertically */
+    margin-bottom: 20px; /* Add some spacing between each skill target */
+  }
+
+  .diamond {
+    margin-right: 10px; /* Space between the diamond and the text */
+    transform: none; /* Remove rotation */
+  }
+
+  h3 {
+    transform: none; /* Keep text horizontal */
+    /* Adjust text alignment and other styles as needed */
+  }
+}
 
 
 @media (min-width: 1026px) {

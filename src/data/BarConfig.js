@@ -5,17 +5,17 @@ export const data = {
   
   datasets: [
     {
-      label: 'Vox',
+      label: 'VX',
       backgroundColor: '#005e84',
       data: [3]
     },
     {
-      label: 'Freelance',
+      label: 'FL',
       backgroundColor: '#a7bdc2',
       data: [4]
     },
     {
-      label: 'Red nucleus',
+      label: 'RN',
       backgroundColor: '#d40000',
       data: [12]
     }

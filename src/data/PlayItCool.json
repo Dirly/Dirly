@@ -1,0 +1,24 @@
+{
+  "title": "PlayItCool", 
+  "description": "Play it cool was a game designed to well... keep your cool.  Players could choose to hold out and buzz in at the right time to win the most points.  After pitching my concept to the clients I went ahead with production designing it and getting it working in electron.",
+  "design": true,
+  "webdev": false,
+  "gamedev": true,
+  "logo": "/PIC/Logo.png",
+  "motionArtist":false,
+  "wipeColor":"#020202",
+  "headerColor":"#020202",
+  "background": "/PIC/background.jpg",
+  "textColor":"#ffffff",
+  "boxColor":"transparent",
+  "images": [
+    {
+      "src": "/PIC/Screen02.PNG",
+      "description": "Game Board"
+    }, 
+    {
+      "src": "/PIC/Screen03.PNG",
+      "description": "Question"
+    }
+  ]
+}

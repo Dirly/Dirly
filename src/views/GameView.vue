@@ -107,7 +107,7 @@
 
 .wipe{
   width: 100%;
-  height:100%;
+  height:100vh;
   position:absolute; 
   left:0px;
   bottom:0px;

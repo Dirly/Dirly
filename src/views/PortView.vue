@@ -19,9 +19,13 @@
       <div class="border"></div>
       <img alt="AmazingAppLogo" class="logo animate__animated animate__bounceInLeft delay-5" src="@/assets/AA/AA_Logo.png"/>
     </router-link>
-    <router-link to="portfolio/againstGreatDarkness" id="FC" class="innerContainer animate__animated animate__slideInLeft delay-5">
+    <router-link to="portfolio/FlightCheck" id="FC" class="innerContainer animate__animated animate__slideInLeft delay-5">
       <div class="border"></div>
       <img alt="FC" class="logo animate__animated animate__bounceInLeft delay-6" src="@/assets/FC/FC_Logo.png"/>
+    </router-link>
+    <router-link to="portfolio/PlayItCool" id="PIC" class="innerContainer animate__animated animate__slideInLeft delay-5">
+      <div class="border"></div>
+      <img alt="PIC" class="logo animate__animated animate__bounceInLeft delay-6" src="@/assets/PIC/logo.png"/>
     </router-link>
     <div class="fadeBlack"></div>
   </div>
@@ -154,6 +158,16 @@ h1 span{
 
 #FC .border{
   background-color: #02060928
+}
+
+#PIC{
+  background-color: #020609;
+  background-image: url("/PIC/background.jpg");
+  background-position: 50% 26%;
+}
+
+#PIC .border{
+  background-color: #021b2e28
 }
 
 .border{

@@ -1,27 +1,25 @@
 {
-  "title": "iPrep", 
-  "description": "The amAZing App was created to onboard sales reps with iPads, by bringing them on a journey around the world.  My roll in the project was creative lead, and support programmer.",
+  "title": "Flight Check", 
+  "description": "Flight Check was created as a way to engage sales reps with a quick fire game of true or false, by bringing them into the cockpit of a spacecraft.   This project I came up with the concept and executed the programing which was done in angular",
   "design": true,
   "webdev": false,
   "gamedev": true,
+  "logo": "/FC/FC_Logo.png",
   "motionArtist":false,
-  "wipeColor":"#167a91",
-  "backgroundPos":"-200px",
-  "headerColor":"#082038",
-  "background": "/iPrep/iPrep_StarBurst.jpg",
-  "backgroundAnimation": "rotate",
-  "forground": "/iPrep/focus_foreground.png",
-  "forgroundAnimation": "",
+  "wipeColor":"#020202",
+  "headerColor":"#020202",
+  "background": "/FC/FC_Background.jpg",
+  "forground": "/FC/FC_Planets.png",
   "textColor":"#ffffff",
-  "boxColor":"#082038",
+  "boxColor":"transparent",
   "images": [
     {
-      "src": "/iPrep/iPrep_Screenshot_01.jpg",
-      "description": "landing"
+      "src": "/FC/FC_Screenshot_01.jpg",
+      "description": "Stats On Quiz"
     }, 
     {
-      "src": "/iPrep/iPrep_Screenshot_02.jpg",
-      "description": "portal"
+      "src": "/FC/FC_Screenshot_02.jpg",
+      "description": "Menu"
     }
   ]
 }

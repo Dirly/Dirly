@@ -4,6 +4,7 @@ import SectorCritical from '../data/SectorCritical.json'
 import iPrep from '../data/iPrep.json'
 import AmazingAp from '../data/AmazingAp.json'
 import FlightCheck from '../data/FlightCheck.json'
+import PlayItCool from '../data/PlayItCool.json'
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -54,6 +55,12 @@ const router = createRouter({
       name: 'FlightCheck',
       component: () => import('../views/GameView.vue'),
       props: FlightCheck
+    },
+    {
+      path: '/portfolio/PlayItCool',
+      name: 'PlayItCool',
+      component: () => import('../views/GameView.vue'),
+      props: PlayItCool
     }
   ]
 })
