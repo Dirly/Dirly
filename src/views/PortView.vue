@@ -25,7 +25,7 @@
     </router-link>
     <router-link to="portfolio/PlayItCool" id="PIC" class="innerContainer animate__animated animate__slideInLeft delay-5">
       <div class="border"></div>
-      <img alt="PIC" class="logo animate__animated animate__bounceInLeft delay-6" src="@/assets/PIC/logo.png"/>
+      <img alt="PIC" class="logo animate__animated animate__bounceInLeft delay-7" src="@/assets/PIC/logo.png"/>
     </router-link>
     <div class="fadeBlack"></div>
   </div>
