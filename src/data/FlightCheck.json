@@ -1,6 +1,6 @@
 {
   "title": "Flight Check", 
-  "description": "Flight Check was created as a way to engage sales reps with a quick fire game of true or false, by bringing them into the cockpit of a spacecraft.   This project I came up with the concept and executed the programing which was done in angular",
+  "description": "Flight Check was developed to engage sales reps through a fast-paced true or false game set in the cockpit of a spacecraft. I conceptualized this project and handled the programming, which was implemented in Angular.",
   "design": true,
   "webdev": false,
   "gamedev": true,

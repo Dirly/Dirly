@@ -1,6 +1,6 @@
 {
   "title": "PlayItCool", 
-  "description": "Play it cool was a game designed to well... keep your cool.  Players could choose to hold out and buzz in at the right time to win the most points.  After pitching my concept to the clients I went ahead with production designing it and getting it working in electron.",
+  "description": "Play It Cool was a game designed to test players’ ability to stay calm under pressure. Players earned the most points by timing their buzz-in perfectly. After pitching the concept to the clients, I led the production, handling both the design and implementation in Electron.",
   "design": true,
   "webdev": false,
   "gamedev": true,
